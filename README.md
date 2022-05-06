@@ -8,7 +8,7 @@
 
 I am a Geospatial Information Systems (GIS) engineer. I love programming.
 
-As a GIS engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I enjoy programming in the field of machine learning and I use every opportunity to progress in this field, because I think the world of the future belongs to artificial intelligence.
 
 ### Talking about Personal Stuffs:
 
