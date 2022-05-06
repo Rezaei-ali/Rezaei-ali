@@ -6,15 +6,15 @@
 
 ### Glad to see you here! 
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a Geospatial Information Systems (GIS) engineer. I love programming.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a GIS engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
 - 👨🏻‍💻 I’m currently working as a geospatial information systems expert.
 - 🌱 I’m currently learning  the application of machine learning models in natural disasters such as forest fires.
-- 👀 I’m interested in in mobile and web programming.
+- 👀 I’m interested in mobile and web programming.
 - 📫 How to reach me: ali.rezaei9877.isf@gmail.com.
 </br>
 
