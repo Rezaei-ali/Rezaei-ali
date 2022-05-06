@@ -12,10 +12,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ### Talking about Personal Stuffs:
 
-- 👨🏻‍💻 I’m currently working as a geospatial information systems expert;
-- 🌱 I’m currently learning  the application of machine learning models in natural disasters such as forest fires;
-- 👀 I’m interested in ...
-- 📫 How to reach me: ali.rezaei9877.isf@gmail.com;
+- 👨🏻‍💻 I’m currently working as a geospatial information systems expert.
+- 🌱 I’m currently learning  the application of machine learning models in natural disasters such as forest fires.
+- 👀 I’m interested in in mobile and web programming.
+- 📫 How to reach me: ali.rezaei9877.isf@gmail.com.
 </br>
 
 <!---
