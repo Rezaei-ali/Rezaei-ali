@@ -12,7 +12,7 @@ I enjoy programming in the field of machine learning and I use every opportunity
 
 ### Talking about Personal Stuffs:
 
-- 👨🏻‍💻 I’m currently working as a geospatial information systems expert.
+- 👨🏻‍💻 I’m currently working as a GIS programmer.
 - 🌱 I’m currently learning  the application of machine learning models in natural disasters such as forest fires.
 - 👀 I’m interested in mobile and web programming.
 - 📫 How to reach me: ali.rezaei9877.isf@gmail.com.
