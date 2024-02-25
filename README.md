@@ -1,28 +1,20 @@
-### Hi there, I'm <a href="" target="_blank">Ali Rezaei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, I'm <a href="" target="_blank">Ali Rezaei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ali-rezaei-78b55517b)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
 
-### Glad to see you here! 
+### Welcome! 
 
-As a GIS and .NET developer with expertise in developing spatial information systems and location-based services, I have honed my skills in GIS software development and utilizing .NET technologies. With a focus on continuous learning and development, I am always eager to grow my skillset and stay up-to-date with the latest industry trends and best practices.
+I am a GIS and .NET developer specializing in building spatial information systems and location-based services. My expertise lies in GIS software development and leveraging .NET technologies. Committed to continuous growth and staying abreast of the latest industry trends and best practices.
 
-
-### Talking about Personal Stuffs:
-
-- 👨🏻‍💻 I’m currently working as a GIS programmer.
-- 🌱 I’m currently learning  the application of machine learning models in natural disasters such as forest fires.
-- 👀 I’m interested in mobile and web programming.
-- 📫 How to reach me: ali.rezaei9877.isf@gmail.com.
-</br>
 https://github.com/Rezaei-ali
 <!---
 Rezaei-ali/Rezaei-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### 📈 **My GitHub Stats:**
+### 📈 **GitHub Statistics:**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezaei-ali)](https://github.com/anuraghazra/github-readme-stats)
