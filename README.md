@@ -6,9 +6,8 @@
 
 ### Glad to see you here! 
 
-I am a Geospatial Information Systems (GIS) engineer. I love programming.
+As a GIS and .NET developer with expertise in developing spatial information systems and location-based services, I have honed my skills in GIS software development and utilizing .NET technologies. With a focus on continuous learning and development, I am always eager to grow my skillset and stay up-to-date with the latest industry trends and best practices.
 
-I enjoy programming in the field of machine learning and I use every opportunity to progress in this field, because I think the world of the future belongs to artificial intelligence.
 
 ### Talking about Personal Stuffs:
 
