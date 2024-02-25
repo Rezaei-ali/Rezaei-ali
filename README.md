@@ -14,11 +14,6 @@ Rezaei-ali/Rezaei-ali is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### 📈 **GitHub Statistics:**
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezaei-ali)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title=".Net" alt=".Net" width="40" height="40"/>&nbsp
