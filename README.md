@@ -16,7 +16,7 @@ As a GIS and .NET developer with expertise in developing spatial information sys
 - 👀 I’m interested in mobile and web programming.
 - 📫 How to reach me: ali.rezaei9877.isf@gmail.com.
 </br>
-
+https://github.com/Rezaei-ali
 <!---
 Rezaei-ali/Rezaei-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,8 +25,7 @@ You can click the Preview link to take a look at your changes.
 ### 📈 **My GitHub Stats:**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaei-ali&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezaei-ali)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
