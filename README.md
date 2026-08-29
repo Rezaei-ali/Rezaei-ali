@@ -43,6 +43,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Ali's GitHub Stats" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" />
 </div>
