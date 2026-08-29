@@ -46,7 +46,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Ali's GitHub Stats" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaei-ali&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  </p>
 </div>
 
 ---
