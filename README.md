@@ -46,12 +46,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaei-ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ali's GitHub Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaei-ali&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
