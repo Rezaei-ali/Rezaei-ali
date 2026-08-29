@@ -43,9 +43,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Core Skills & Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezaei-ali&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ali's GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaei-ali&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-2C5E7A?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
